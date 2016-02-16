@@ -1,3 +1,4 @@
-idea 1
+idea 3
 idea 2
 xxx
+new line added
